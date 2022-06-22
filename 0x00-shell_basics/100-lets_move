@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep "^[A-Z]"
+mv [[:upper:]]* /tmp/u 
